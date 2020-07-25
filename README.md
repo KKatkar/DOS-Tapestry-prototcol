@@ -11,4 +11,4 @@ mix run project3.exs numNodes numRequests
 <h3>Results</h3>
 The largest network we were able to deal with had the number of nodes as
 12500 and number of requests as 5 where the max hop count was found to
-be 6 which can be seen in the screenshot below.
+be 6 which can be seen README.pdf
